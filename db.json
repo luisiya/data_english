@@ -1,0 +1,34 @@
+{
+  "correctAnswersCount": 0,
+  "visible": false,
+  "mistake": true,
+  "shuffledWords": [],
+  "inputValue": "",
+  "actions": [
+    {
+      "name": "Week Days",
+      "id": 1,
+      "tasks": {
+        "понедельник": "Monday",
+        "вторник": "Tuesday",
+        "среда": "Wednesday",
+        "четверг": "Thursday",
+        "пятница": "Friday",
+        "суббота": "Saturday",
+        "воскресенье": "Sunday"
+      }
+    },
+    {
+      "name": "Weather",
+      "id": 2,
+      "tasks": {
+        "солнечно": "sunny",
+        "тепло": "hot",
+        "холодно": "cold",
+        "снежно": "snowing",
+        "дождливо": "raining",
+        "пасмурно": "cloudy"
+      }
+    }
+  ]
+}
