@@ -1,10 +1,5 @@
 {
-  "correctAnswersCount": 0,
-  "visible": false,
-  "mistake": true,
-  "shuffledWords": [],
-  "inputValue": "",
-  "actions": [
+   "actions": [
     {
       "name": "Week Days",
       "id": 1,
