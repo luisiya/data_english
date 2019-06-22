@@ -1,5 +1,5 @@
 {
-   "actions": [
+  "actions": [
     {
       "name": "Week Days",
       "id": 1,
@@ -23,6 +23,262 @@
         "снежно": "snowing",
         "дождливо": "raining",
         "пасмурно": "cloudy"
+      }
+    },
+    {
+      "name": "numbers",
+      "id": 3,
+      "tasks": {
+        "одинадцать": "eleven",
+        "двенадцать": "twelve",
+        "тринадцать": "thirteen",
+        "четырнадцать": "fourteen",
+        "пятнадцать": "fifteen",
+        "шестнадцать": "sixteen",
+        "семнадцать": "seventeen",
+        "восемнадцать": "eighteen",
+        "девятнадцать": "nineteen",
+        "двадцать": "twenty"
+      }
+    },
+    {
+      "name": "Beach",
+      "id": "4",
+      "tasks": {
+        "ловить_рыбу": "catch a fish",
+        "рисовать_картину": "paint a picture",
+        "есть_мороженое": "eat ice cream",
+        "фотографировать": "take a photo",
+        "слушать_музыку": "listen to music",
+        "искать_ракушки": "look for shells",
+        "читать_книгу": "read a book",
+        "строить_песочный_замок": "make a sandcastle"
+      }
+    },
+    {
+      "name": "house",
+      "id": "5",
+      "tasks": {
+        "ванная": "bathroom",
+        "спальня": "bedroom",
+        "гостинная": "living room",
+        "прихожая": "hall",
+        "столовая": "dining room",
+        "кухня": "kitchen",
+        "лестница": "stairs",
+        "подвал": "cellar"
+      }
+    },
+    {
+      "name": "clothing",
+      "id": 6,
+      "tasks": {
+        "джинсы": "jeans",
+        "пиджак": "jacket",
+        "ботинки": "shoes",
+        "кепка": "cap",
+        "футболка": "T-shirt",
+        "свитер": "sweater",
+        "юбка": "skirt",
+        "шорты": "shorts",
+        "носки": "socks",
+        "брюки": "trousers"
+      }
+    },
+    {
+      "name": "human",
+      "id": 7,
+      "tasks": {
+        "голова": "head",
+        "кисть": "hand",
+        "нога": "leg",
+        "колено": "knee",
+        "рука": "arm",
+        "пальцы": "fingers",
+        "ступня": "foot"
+      }
+    },
+    {
+      "name": "animals",
+      "id": 8,
+      "tasks": {
+        "тигр": "tiger",
+        "попугай": "parrot",
+        "верблюд": "camel",
+        "козел": "goat",
+        "медведь": "bear",
+        "акула": "shark",
+        "медуза": "jekkyfish",
+        "пенгвин": "penguin"
+      }
+    },
+    {
+      "name": "school",
+      "id": 9,
+      "tasks": {
+        "дверь": "door",
+        "окно": "window",
+        "шкаф": "bookcase",
+        "стена": "wall",
+        "часы": "clock",
+        "тумбочка": "cupboard",
+        "стул": "chair",
+        "пол": "floor",
+        "доска": "board"
+      }
+    },
+    {
+      "name": "myDay",
+      "id": 10,
+      "tasks": {
+        "просыпаться": "get up",
+        "одеваться": "get dressed",
+        "завтракать": "have breakfast",
+        "чистить зубы": "brash your teeth",
+        "идти в школу": "go to school",
+        "обедать": "have lunch",
+        "играть в парке": "play in the park",
+        "ужинать": "have dinner",
+        "идти спать": "go to bed"
+      }
+    },
+    {
+      "name": "Zoo",
+      "id": 11,
+      "tasks": {
+        "зебра": "zebra",
+        "обезьяна": "monkey",
+        "бегемот": "hippo",
+        "змея": "snake",
+        "попугай": "parrot",
+        "медведь": "bear",
+        "крокодил": "crocodile",
+        "тигр": "tiger"
+      }
+    },
+    {
+      "name": "numbers",
+      "id": 12,
+      "tasks": {
+        "1": "one",
+        "2": "two",
+        "3": "three",
+        "4": "four",
+        "5": "five",
+        "6": "six",
+        "7": "seven",
+        "8": "eight",
+        "9": "nine",
+        "10": "ten",
+        "11": "eleven",
+        "12": "twelve",
+        "13": "thirteen",
+        "14": "fourteen",
+        "15": "fifteen",
+        "16": "sixteen",
+        "17": "seventeen",
+        "18": "eighteen",
+        "19": "nineteen",
+        "20": "twenty",
+        "30": "thirty",
+        "40": "forty",
+        "50": "fifty",
+        "60": "sixty",
+        "70": "seventy",
+        "80": "eighty",
+        "90": "ninety",
+        "100": "one hundred"
+      }
+    },
+    {
+      "name": "where",
+      "id": 13,
+      "tasks": {
+        "парк": "park",
+        "детская площадка": "playground",
+        "госпиталь": "hospital",
+        "автобусная остановка": "bus stop",
+        "кинотеатр": "cinema",
+        "бассейн": "swimming pool",
+        "магазин": "shop",
+        "улица": "street",
+        "кафе": "cafe",
+        "железнодорожняя станция": "train station"
+      }
+    },
+    {
+      "name": "people",
+      "id": 14,
+      "tasks": {
+        "волосы": "hair",
+        "глаза": "eyes",
+        "очки": "glasses",
+        "щеки": "cheeks",
+        "подбродок": "chin",
+        "нос": "nose",
+        "рот": "mouth",
+        "уши": "ears",
+        "лицо": "face"
+      }
+    },
+    {
+      "name": "myBedroom",
+      "id": 15,
+      "tasks": {
+        "лампа": "lamp",
+        "кресло": "armchair",
+        "диван": "sofa",
+        "кровать": "bed",
+        "коврик": "mat",
+        "шкаф": "wardrobe",
+        "зеркало": "mirror",
+        "стол": "table"
+      }
+    },
+    {
+      "name": "berries",
+      "id": 16,
+      "tasks": {
+        "вишня": "cherry",
+        "клубника": "strawberry",
+        "ягода": "berry",
+        "груша": "pear",
+        "слива": "plum",
+        "персик": "peach",
+        "малина": "raspberry"
+      }
+    },
+    {
+      "name": "months",
+      "id": 17,
+      "tasks": {
+        "январь": "January",
+        "февоаль": "February",
+        "март": "March",
+        "апрель": "April",
+        "май": "May",
+        "июнь": "June",
+        "июль": "July",
+        "август": "August",
+        "сентябрь": "September",
+        "октябрь": "October",
+        "ноябрь": "November",
+        "декабрь": "December"
+      }
+    },
+    {
+      "name": "holiday",
+      "id": 18,
+      "tasks": {
+        "відвідувати кузинів": "visit my cousins",
+        "відправлятися в похід": "go hiking",
+        "зберігати альбом": "keep a scrapbook",
+        "допомогати в саду": "help in the garden",
+        "будувати будинок на дереві": "build a tree house",
+        "читати комікси": "read a comic",
+        "вчитися плавати": "learn to swim",
+        "йти в кемпінг(з палатками)": "go camping",
+        "брати уроки верхової їзди": "take riding lessons"
       }
     }
   ]
