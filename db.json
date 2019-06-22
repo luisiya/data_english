@@ -26,7 +26,7 @@
       }
     },
     {
-      "name": "numbers",
+      "name": "Numbers",
       "id": 3,
       "tasks": {
         "одинадцать": "eleven",
@@ -56,7 +56,7 @@
       }
     },
     {
-      "name": "house",
+      "name": "House",
       "id": "5",
       "tasks": {
         "ванная": "bathroom",
@@ -70,7 +70,7 @@
       }
     },
     {
-      "name": "clothing",
+      "name": "Clothing",
       "id": 6,
       "tasks": {
         "джинсы": "jeans",
@@ -86,7 +86,7 @@
       }
     },
     {
-      "name": "human",
+      "name": "Human",
       "id": 7,
       "tasks": {
         "голова": "head",
@@ -99,7 +99,7 @@
       }
     },
     {
-      "name": "animals",
+      "name": "Animals",
       "id": 8,
       "tasks": {
         "тигр": "tiger",
@@ -113,7 +113,7 @@
       }
     },
     {
-      "name": "school",
+      "name": "School",
       "id": 9,
       "tasks": {
         "дверь": "door",
@@ -128,7 +128,7 @@
       }
     },
     {
-      "name": "myDay",
+      "name": "My Day",
       "id": 10,
       "tasks": {
         "просыпаться": "get up",
@@ -157,7 +157,7 @@
       }
     },
     {
-      "name": "numbers",
+      "name": "Numbers",
       "id": 12,
       "tasks": {
         "1": "one",
@@ -191,7 +191,7 @@
       }
     },
     {
-      "name": "where",
+      "name": "Where",
       "id": 13,
       "tasks": {
         "парк": "park",
@@ -207,7 +207,7 @@
       }
     },
     {
-      "name": "people",
+      "name": "People",
       "id": 14,
       "tasks": {
         "волосы": "hair",
@@ -222,7 +222,7 @@
       }
     },
     {
-      "name": "myBedroom",
+      "name": "My Bedroom",
       "id": 15,
       "tasks": {
         "лампа": "lamp",
@@ -236,7 +236,7 @@
       }
     },
     {
-      "name": "berries",
+      "name": "Berries",
       "id": 16,
       "tasks": {
         "вишня": "cherry",
@@ -249,7 +249,7 @@
       }
     },
     {
-      "name": "months",
+      "name": "Months",
       "id": 17,
       "tasks": {
         "январь": "January",
@@ -267,7 +267,7 @@
       }
     },
     {
-      "name": "holiday",
+      "name": "Holiday",
       "id": 18,
       "tasks": {
         "відвідувати кузинів": "visit my cousins",
